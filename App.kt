@@ -45,7 +45,7 @@ val lightColorScheme = lightColorScheme(
     onError = onError
 )
 //Dark Colors Scheme
-val darkColorScheme = lightColorScheme(
+val darkColorScheme = darkColorScheme(
     primary = darkPrimary,
     onPrimary = onDarkPrimary ,
     secondary = darkSecondary,
